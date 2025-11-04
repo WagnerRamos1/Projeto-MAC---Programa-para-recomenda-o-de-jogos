@@ -1,0 +1,72 @@
+1. Qual plataforma você usa para jogar?
+   ├── PC
+   │   └── Qual estilo visual você prefere?
+   │       ├── Realista
+   │       │   └── Você prefere jogar sozinho ou com outras pessoas?
+   │       │       ├── Sozinho
+   │       │       │   └── Prefere foco em:
+   │       │       │       ├── História
+   │       │       │       │   └── Gosta de tomar decisões que afetam a narrativa?
+   │       │       │       │       ├── Sim → *The Witcher 3*, *Disco Elysium*
+   │       │       │       │       └── Não → *Tomb Raider*, *Firewatch*
+   │       │       │       └── Ação
+   │       │       │           ├── Mundo aberto → *Skyrim*, *GTA V*
+   │       │       │           └── Linear → *Doom Eternal*, *Control*
+   │       │       └── Com outras pessoas
+   │       │           ├── Cooperação
+   │       │           │   ├── Casual → *Overcooked*, *Stardew Valley*
+   │       │           │   └── Desafiador → *Payday 2*, *Deep Rock Galactic*
+   │       │           └── Competição
+   │       │               ├── Tiro → *Valorant*, *CS:GO*
+   │       │               └── Estratégia → *StarCraft II*, *Age of Empires IV*
+   │       └── Cartunesco
+   │           └── Você prefere jogar sozinho ou com outras pessoas?
+   │               ├── Sozinho
+   │               │   ├── História
+   │               │   │   ├── Decisões narrativas → *Undertale*, *Life is Strange*
+   │               │   │   └── Sem decisões → *Ori and the Blind Forest*, *Hollow Knight*
+   │               │   └── Ação
+   │               │       ├── Aberto → *Minecraft*, *Terraria*
+   │               │       └── Linear → *Celeste*, *Dead Cells*
+   │               └── Com outras pessoas
+   │                   ├── Cooperação
+   │                   │   ├── Casual → *Lovers in a Dangerous Spacetime*, *Moving Out*
+   │                   │   └── Desafiador → *Cuphead*, *Don't Starve Together*
+   │                   └── Competição
+   │                       ├── Tiro → *Team Fortress 2*, *Fortnite*
+   │                       └── Estratégia → *Clash Royale*, *Brawlhalla*
+
+   └── Console
+       └── Qual estilo visual você prefere?
+           ├── Realista
+           │   └── Você prefere jogar sozinho ou com outras pessoas?
+           │       ├── Sozinho
+           │       │   ├── Terror
+           │       │   │   ├── Survival Horror → *Resident Evil: Requiem*, *Sillent Hill 2*
+           │       │   │   └── Terror Psicológico → *Outlast*, *Alan Wake 2*
+           │       │   └── Aventura
+           │       │       ├── Aberto → *Farcry 3*, *Red Dead Redemption 2* 
+           │       │       └── Linear → *The Last of Us 2*, *God of War*
+           │       └── Com outras pessoas
+           │           ├── Cooperação
+           │           │   ├── Esporte → *Bomba Patch 2026*, *NBA 2K25*
+           │           │   └── Puzzle → *Portal 2*, *The Talos Principle 2*
+           │           └── Competição
+           │               ├── Tiro → *Battlefield*, *PUBG*
+           │               └── Luta → *Mortal Kombat 1*, *Injustice 2*
+           └── Cartunesco
+               └── Você prefere jogar sozinho ou com outras pessoas?
+                   ├── Sozinho
+                   │   ├── História
+                   │   │   ├── Decisões narrativas → *The Walking Dead*, *Oxenfree*
+                   │   │   └── Sem decisões → *Ori and the Blind Forest*, *Limbo*
+                   │   └── Aventura
+                   │       ├── Aberto → *Genshim Impact*, *Zelda Tears of The Kingdom*
+                   │       └── Linear → *Crash Bandicoot*, *Rayman Legends*
+                   └── Com outras pessoas
+                       ├── Cooperação
+                       │   ├── Casual → *Super Mario Party*, *It Takes Two*
+                       │   └── Desafiador → *Cuphead*, *Overcoocked*
+                       └── Competição
+                           ├── Luta → *Tekken 6*, *Street Fighter*
+                           └── Tiro → *Fortnite*, *Splatoon*
