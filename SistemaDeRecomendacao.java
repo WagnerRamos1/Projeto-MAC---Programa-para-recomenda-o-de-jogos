@@ -121,6 +121,11 @@ public class SistemaDeRecomendacao {
 
         console.sim = consoleEstilizado;
         console.nao = consoleRealista;
+        // fim do Console
+
+        raiz.sim = pc;
+        raiz.nao = console;
+
     
         Funcoes.Recomendar(raiz, pc, console, ler);
         
