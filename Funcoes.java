@@ -30,10 +30,10 @@ public class Funcoes {
         String resposta = ler.nextLine().trim().toLowerCase();
         switch (resposta) {
             case "pc":
-                PercorrerArvore(raiz.sim, ler);
+                PercorrerArvore(pc, ler);
                 break;
             case "console":
-                PercorrerArvore(raiz.nao, ler);
+                PercorrerArvore(console, ler);
                 break;
             default:
                 System.out.println("Resposta inválida!");
