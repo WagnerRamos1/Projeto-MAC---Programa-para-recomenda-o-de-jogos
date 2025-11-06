@@ -1,13 +1,15 @@
 import java.util.Scanner;
 
 public class Funcoes {
+
+    // Função para percorrer os Nós
     public static void PercorrerArvore(No node, Scanner ler) {
         if (node.jogo != null) {
             System.out.println("Recomendação de jogos: " + node.jogo);
             return;
         }
         else{
-            System.out.println(node.questao + "S ou N");
+            System.out.print(node.questao + "S ou N: ");
             String resposta = ler.nextLine().trim().toUpperCase();
             switch (resposta) {
                 case "S":
@@ -24,7 +26,7 @@ public class Funcoes {
         }
     }
     
- 
+    // Função para inicializar o sistema
     public static void Recomendar(No raiz, No pc, No console, Scanner ler) {
         System.out.print(raiz.questao + " PC ou Console: ");
         String resposta = ler.nextLine().trim().toLowerCase();
@@ -43,4 +45,3 @@ public class Funcoes {
     } 
     
 }
-
